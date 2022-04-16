@@ -1,0 +1,1 @@
+mix - blend - mode HTML you need 2xContainers <div class="hero"><div class="hero-intro"><h1>THIS IS THE WONDERFUL</h1><p>hermit crab</p></div></div>sdf
